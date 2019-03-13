@@ -1,2 +1,1 @@
-include ':customerrortextinput'
-include ':app'
+include ':app', ':customerrortextinput'
