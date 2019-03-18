@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="TextInputCustom">
+        <attr name="errorGravity" format="enum">
+            <enum name="start" value="8388611"/>
+            <enum name="end" value="8388613"/>
+            <enum name="center" value="1"/>
+        </attr>
+    </declare-styleable>
+</resources>

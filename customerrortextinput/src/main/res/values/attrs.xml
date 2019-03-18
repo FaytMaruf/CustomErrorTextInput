@@ -8,14 +8,14 @@
         </attr>
     </declare-styleable>
     <!--<declare-styleable name="ErrorView">-->
-        <!--<attr name="gravity" format="enum">-->
-            <!--<enum name="top" value="1"/>-->
-            <!--<enum name="center" value="17"/>-->
-        <!--</attr>-->
-        <!--<attr name="imageHeight" format="integer" />-->
-        <!--<attr name="imageWidth" format="integer" />-->
-        <!--<attr name="titleSize" format="integer" />-->
-        <!--<attr name="subtitleSize" format="integer" />-->
-        <!--<attr name="buttonTextSize" format="integer" />-->
+    <!--<attr name="gravity" format="enum">-->
+    <!--<enum name="top" value="1"/>-->
+    <!--<enum name="center" value="17"/>-->
+    <!--</attr>-->
+    <!--<attr name="imageHeight" format="integer" />-->
+    <!--<attr name="imageWidth" format="integer" />-->
+    <!--<attr name="titleSize" format="integer" />-->
+    <!--<attr name="subtitleSize" format="integer" />-->
+    <!--<attr name="buttonTextSize" format="integer" />-->
     <!--</declare-styleable>-->
 </resources>
